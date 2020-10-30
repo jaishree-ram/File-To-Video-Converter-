@@ -1,10 +1,10 @@
 class Translation(object):
     START_TEXT = """<b>Hello there</b>,<b> I'm a Telegram File convert Bot!</b> \n<b>1.Send Me Any Telegram Document Or File</b> \n <b>2.Reply To That File With /converttovideo</b>\n <b>3. I'll Convert It Into Video With Permanent Thumbnail Support.</b>\n  
-Bot By : @mAi_BotS
+Bot By : @kc_bots
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
-    UPGRADE_TEXT = "No upgrade plan Yet Contact. @No_OnE_Kn0wS_Me"
+    UPGRADE_TEXT = "No upgrade plan Yet"
     DOWNLOAD_START = "<b>trying to download</b>"
     UPLOAD_START = "<b>trying to upload</b>"
     RCHD_BOT_API_LIMIT = "<b>size greater than maximum allowed size (50MB). Neverthless, trying to upload.</b>"
@@ -20,10 +20,10 @@ Bot By : @mAi_BotS
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Support: <a href='https://t.me/Mai_bOTs'>{}</a>
+Support: <a href='https://t.me/kc_bots'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can :
-👉 <a href="https://telegram.dog/Mai_bOTs">Convert Any Documents/File Into Streamable Video With Permanent Thumbnail Support</a>
+👉 <a href="https://telegram.dog/kc_bots">Convert Any Documents/File Into Streamable Video With Permanent Thumbnail Support</a>
 --------
 
 """
