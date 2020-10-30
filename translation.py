@@ -1,6 +1,7 @@
 class Translation(object):
     START_TEXT = """<b>Hello there</b>,<b> I'm a Telegram File convert Bot!</b> \n<b>1.Send Me Any Telegram Document Or File</b> \n <b>2.Reply To That File With /converttovideo</b>\n <b>3. I'll Convert It Into Video With Permanent Thumbnail Support.</b>\n  
 Bot By : @kc_bots
+Credits : @BotDunia
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
